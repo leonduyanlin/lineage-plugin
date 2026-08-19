@@ -4,7 +4,7 @@
 
 - Windows 10 or Windows 11 supported by Microsoft.
 - Desktop Microsoft Excel using the Office 16.0 registry model, including Microsoft 365 Apps desktop Excel.
-- x64 and x86 Excel; the installer selects the matching signed XLL.
+- x64 and x86 Excel; the installer selects the matching architecture-specific XLL.
 - .NET Framework 4.8 or later.
 - PowerShell 7 for the signed bootstrap, install, uninstall, and verification tools.
 
