@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "channel": "UnsignedPreview",
+  "version": "1.5.0",
+  "repository": "leonduyanlin/lineage-plugin",
+  "codeSigned": false,
+  "acknowledgementSwitch": "AcceptUnsignedPreviewRisk",
+  "warning": "This native Excel add-in is not code-signed. Windows cannot verify its publisher."
+}

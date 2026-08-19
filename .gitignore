@@ -1,0 +1,12 @@
+*.cer
+*.crt
+*.key
+*.log
+*.p12
+*.pem
+*.pfx
+*.pvk
+*.snk
+*.xlsx
+*.xlsm
+install.json
