@@ -3,9 +3,9 @@
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
   "name": "Lineage-1.5.0",
-  "documentNamespace": "https://github.com/leonduyanlin/lineage-plugin/sbom/Lineage-1.5.0/30CCBC233B762D8E3C73FAEFD6DF1FABE78852D440A0196A83FF3DDF42F6E9B7",
+  "documentNamespace": "https://github.com/leonduyanlin/lineage-plugin/sbom/Lineage-1.5.0/DF937FCDD762BCEE02E695F9ED534A5F02DB2B8B2CC314B86FA5AF23F35C074B",
   "creationInfo": {
-    "created": "2023-11-14T22:13:20Z",
+    "created": "2026-08-19T09:22:48Z",
     "creators": [
       "Tool: Lineage New-LineageReleaseMetadata.ps1"
     ]
@@ -35,16 +35,6 @@
       "name": "ExcelDna.Integration",
       "SPDXID": "SPDXRef-Package-ExcelDna.Integration-1.9.0",
       "versionInfo": "1.9.0",
-      "downloadLocation": "NOASSERTION",
-      "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
-      "licenseDeclared": "NOASSERTION",
-      "copyrightText": "NOASSERTION"
-    },
-    {
-      "name": "Microsoft.NETFramework.ReferenceAssemblies",
-      "SPDXID": "SPDXRef-Package-Microsoft.NETFramework.ReferenceAssemblies-1.0.3",
-      "versionInfo": "1.0.3",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
       "licenseConcluded": "NOASSERTION",
@@ -137,11 +127,6 @@
       "spdxElementId": "SPDXRef-DOCUMENT",
       "relationshipType": "DESCRIBES",
       "relatedSpdxElement": "SPDXRef-Package-ExcelDna.Integration-1.9.0"
-    },
-    {
-      "spdxElementId": "SPDXRef-DOCUMENT",
-      "relationshipType": "DESCRIBES",
-      "relatedSpdxElement": "SPDXRef-Package-Microsoft.NETFramework.ReferenceAssemblies-1.0.3"
     },
     {
       "spdxElementId": "SPDXRef-DOCUMENT",
